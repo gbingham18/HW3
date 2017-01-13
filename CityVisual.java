@@ -109,7 +109,7 @@ public class CityVisual {
 		    frame.getContentPane().add(p, BorderLayout.WEST); 
 		    
 		    // Center Panel (p_1) layout, adds a blank image to each side
-		    // p_1 is added at the bottom of initialize()
+		    // p_1 is added at the bottom of Initialize()
 		    p_1.setLayout(null);
 		    JLabel picLabel = new JLabel(icon4);
 		    p_1.add(picLabel);
